@@ -20,6 +20,6 @@ Things to do
 - allow for coupon codes
 - host website on heroku to let YOU try it out!!!
 
-Extra
+
 -----
-Full Video demonstration : https://youtu.be/c-sa5OqlkhQ
+
